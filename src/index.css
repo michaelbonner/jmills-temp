@@ -17,7 +17,8 @@
 }
 
 body {
-  background: url("./img/bg.jpg") no-repeat center center fixed;
+  background-image: url("./img/bg.jpg");
+  background-size: cover;
 }
 
 .bpd-crossed-out-text::after {
