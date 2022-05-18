@@ -5,3 +5,14 @@
 body {
   background: url("./img/bg.jpg") no-repeat center center fixed;
 }
+
+.bpd-crossed-out-text::after {
+  content: "";
+  @apply absolute top-0 left-0 w-full bg-gray-200;
+  transform: translate3d(0, 28px, 0);
+  height: 2px;
+}
+
+.bpd-small-x {
+  padding-bottom: 3px;
+}
