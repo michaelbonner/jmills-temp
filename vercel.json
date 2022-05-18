@@ -1,0 +1,184 @@
+{
+  "redirects": [
+    {
+      "source": "/services/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/studio/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/contact/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/about/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/roster/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/reel/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/ummc/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/filmcategory/commercial/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/lincoln/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/viruserv/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/k12/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/author/drew/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/author/jmills/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/packsize-mission/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/pattern-accelerate/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/built-bar/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/ford-imagine/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/lincoln-aviator/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/client-question-form/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/packsize-mission/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/panasonic-toughbook/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/front-page/films/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/panasonic-toughbook-fire/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/ford-f-150/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/panasonic-toughbook-ems/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/doterra-special-gift/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/tesla-model-x/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/doterra-all-yours/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/traeger-grills-d2/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/doterra-all-yours/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/doterra-special-gift/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/traeger-all-new-app/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/webb-who-we-are/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/webb-who-we-are/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/films/k12-education-for-any-one/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/casestudies/university-of-mississippi-medical-center/",
+      "destination": "https://jmills-temp.vercel.app/",
+      "permanent": false
+    }
+  ]
+}
