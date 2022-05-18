@@ -2,7 +2,8 @@ module.exports = {
   content: ["./src/**/*.{html,js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      sans: ["Montserrat", "sans-serif"],
+      sans: ["proxima-nova", "sans-serif"],
+      outline: ["gothic-outline-title", "sans-serif"],
     },
     extend: {},
   },
