@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jmillsent.vercel.app
+
+# Sitemaps
+Sitemap: https://jmillsent.vercel.app/sitemap.xml
